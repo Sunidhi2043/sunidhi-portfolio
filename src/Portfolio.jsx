@@ -363,7 +363,7 @@ function ProjectCard({ title, tech, desc, github }) {
       <p className="text-sm text-gray-600 dark:text-gray-300 mb-2">{tech}</p>
       <p className="mb-4 text-gray-700 dark:text-gray-200 text-sm sm:text-base">{desc}</p>
       <a
-        href={github}
+        href={`${import.meta.env.BASE_URL}Sunidhi_Resume.pdf`}
         target="_blank"
         rel="noopener noreferrer"
         className="text-blue-600 hover:underline text-sm"
