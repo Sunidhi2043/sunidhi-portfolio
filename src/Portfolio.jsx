@@ -284,7 +284,7 @@ Impact: A solid foundation for digital learning—ideal for educators and instit
           viewport={{ once: true }}
           className="bg-gray-800 py-16 px-4 sm:px-6 text-center"
         >
-          <h2 className=" dark:bg-gray-800 py-16 px-4 sm:px-6 text-3xl font-bold mb-4 text-gray-900 dark:text-white">Let's Connect</h2>
+          <h2 className=" dark:bg-gray-800 py-16 px-4 sm:px-6 text-3xl font-bold mb-4 text-white dark:text-white">Let's Connect</h2>
           <form
             onSubmit={handleSubmit}
             className="max-w-xl mx-auto space-y-4 text-left"
