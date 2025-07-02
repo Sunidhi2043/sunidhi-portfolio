@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/Sunidhi_Resume.pdf", "destination": "/Sunidhi_Resume.pdf" }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
