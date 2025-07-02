@@ -79,7 +79,7 @@ export default function Portfolio() {
                 Contact Me
               </a>
               <a
-                href="/Sunidhi_Resume.pdf"
+                href={`${import.meta.env.BASE_URL}Sunidhi_Resume.pdf`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className={outlineButton}
