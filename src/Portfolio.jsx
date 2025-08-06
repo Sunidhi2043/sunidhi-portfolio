@@ -129,15 +129,15 @@ export default function Portfolio() {
                 tech="Python, Pandas, NLP"
                 desc="A smart automation tool that transforms static Excel files into interactive dashboards using Natural Language Processing.
 
-✅ Ask questions like “Top 5 sales regions” and get instant visual insights
-
-📈 Auto-analyzes raw data to generate key stats and summaries
-
-🎯 Visualizes results with dynamic graphs using Matplotlib and Seaborn
-
-🤖 NLP-powered backend for conversational data interaction
-
-Impact: Simplifies Excel data analysis for non-technical users—no formulas, just insights."
+                ✅ Ask questions like “Top 5 sales regions” and get instant visual insights
+                
+                📈 Auto-analyzes raw data to generate key stats and summaries
+                
+                🎯 Visualizes results with dynamic graphs using Matplotlib and Seaborn
+                
+                🤖 NLP-powered backend for conversational data interaction
+                
+                Impact: Simplifies Excel data analysis for non-technical users—no formulas, just insights."
                 github="https://github.com/Sunidhi2043/Excel-Insight-Master"
               />
               <ProjectCard
@@ -145,17 +145,17 @@ Impact: Simplifies Excel data analysis for non-technical users—no formulas, ju
                 tech="Python, ML, SQL"
                 desc="A web dashboard that analyzes and visualizes social media sentiment using NLP and Machine Learning.
 
-🧠 Detects sentiment as Positive, Negative, or Neutral
-
-🗂️ Real-time SQL-based data handling
-
-📊 Visual insights via Matplotlib and Streamlit
-
-⚙️ Custom filters by keyword, date, and sentiment
-
-🌐 Clean, responsive user interface
-
-Impact: Simplifies sentiment understanding for marketers, researchers, and campaign teams."
+                🧠 Detects sentiment as Positive, Negative, or Neutral
+                
+                🗂️ Real-time SQL-based data handling
+                
+                📊 Visual insights via Matplotlib and Streamlit
+                
+                ⚙️ Custom filters by keyword, date, and sentiment
+                
+                🌐 Clean, responsive user interface
+                
+                Impact: Simplifies sentiment understanding for marketers, researchers, and campaign teams."
                 github="https://github.com/Sunidhi2043/Sentiment-Analysis-Dashboard-on-Social-Media"
               />
               <ProjectCard
@@ -163,18 +163,35 @@ Impact: Simplifies sentiment understanding for marketers, researchers, and campa
                 tech="Flask, Google Cloud, JS"
                 desc="A scalable video-based learning app built with Flask and Google Cloud for seamless content management and playback.
 
-📹 Secure video uploads via Google Cloud Storage
-
-📁 Auto-generated course playlists
-
-🌐 Responsive UI with HTML, CSS, and JavaScript
-
-🔐 Role-based structure for future authentication
-
-🚀 Live on Render for easy access
-
-Impact: A solid foundation for digital learning—ideal for educators and institutions."
+                📹 Secure video uploads via Google Cloud Storage
+                
+                📁 Auto-generated course playlists
+                
+                🌐 Responsive UI with HTML, CSS, and JavaScript
+                
+                🔐 Role-based structure for future authentication
+                
+                🚀 Live on Render for easy access
+                
+                Impact: A solid foundation for digital learning—ideal for educators and institutions."
                 github="http://my-learning-platform.onrender.com"
+              />
+              <ProjectCard
+                title="Mood2Style"
+                tech="Flask, Python, ML, tailwind CSS, HTML, CSS, JavaScript"
+                desc="A fashion web app that recommends outfits tailored to the user's selected mood, enhancing personal style through intuitive interaction and machine learning.
+                👗 Mood-based outfit suggestions for personalized styling
+
+                📷 Seamless image upload for mood selection
+
+                🎯 Interactive, user-friendly outfit results page
+
+                🧠 Intuitive UX flow from input to recommendation
+
+                🚀 Deployed live on Render for instant access
+
+                Impact: Revolutionizes personal fashion choices by combining mood analysis with style recommendations, making dressing up a delightful experience."
+                github="https://mood2style.onrender.com/"
               />
             </div>
           </div>
