@@ -102,13 +102,13 @@ export default function Portfolio() {
         >
           <h2 className="text-3xl font-bold mb-4 text-center sm:text-left">About Me</h2>
           <p className="text-base sm:text-lg leading-relaxed text-gray-700 dark:text-gray-300">
-            Hi, I'm Sunidhi Singh, a passionate and detail-oriented Software Developer with a strong foundation in Full Stack Web Development, Data Analysis, and Machine Learning. I'm currently pursuing my B.Tech in Computer Science from SRM Institute of Science & Technology with a CGPA of 8.62.
+            Hey there! I’m Sunidhi Singh, a Computer Science graduate from SRM IST, driven by a deep curiosity for how things work — and how to make them work better. Over the years, I’ve explored the layers of technology through hands-on experience in development, data analysis, and project execution. From building sentiment dashboards and automation tools to designing user-centric web experiences, I’ve always enjoyed turning abstract ideas into purposeful, real-world solutions.
 
-            I thrive at the intersection of technology and problem-solving whether it's building dynamic dashboards, creating scalable web apps, or mentoring juniors in programming. I've interned at Larsen & Toubro where I worked on full-stack applications and data-driven solutions, and developed several projects including an AI-powered Excel Insights Tool, a Sentiment Analysis Dashboard, and a video-based E-Learning platform.
+I’ve worked on projects across Python, SQL, React, Excel, and more — often wearing multiple hats, balancing solo execution with collaborative problem-solving. Along the way, I’ve developed a mindset that values structure, clarity, and adaptability. I'm someone who thrives in fast-moving environments, loves untangling complex problems, and pays close attention to detail — not just in code, but in how teams communicate and ideas take shape.
 
-            I'm skilled in Python, C++, Flask, JavaScript, SQL, and tools like Power BI, Git, and Google Cloud APIs. Outside of coding, I enjoy leading creative events and was actively involved in my college's Coding and Fashion Clubs organizing hackathons, mentoring peers, and managing campaigns.
+Challenges genuinely excite me. I love the process of diving deep, asking the right questions, and building systems or strategies that actually make a difference — whether it's through clean design, meaningful data, or thoughtful workflows.
 
-            Currently, I'm looking for opportunities to bring innovative solutions to real-world problems and continue growing as a full-stack developer.
+Right now, I’m excited about opportunities that let me grow across disciplines, contribute to impactful work, and keep learning with every step. If you're into ideas, execution, and a bit of creative chaos — we’ll probably get along just fine.
           </p>
         </motion.section>
 
