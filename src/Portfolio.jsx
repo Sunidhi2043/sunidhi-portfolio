@@ -72,7 +72,7 @@ export default function Portfolio() {
               Hi, I'm Sunidhi Singh 👩‍💻
             </h1>
             <p className="text-lg sm:text-xl md:text-2xl mb-6">
-              Full Stack Developer | Python | Flask | JavaScript | ML Enthusiast
+              Full Stack Developer | Data Analytics | Project/Product Management | Python | ML Enthusiast
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a href="mailto:sunidhi2043@gmail.com" className={buttonStyle}>
