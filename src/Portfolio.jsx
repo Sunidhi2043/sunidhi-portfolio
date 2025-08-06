@@ -102,14 +102,13 @@ export default function Portfolio() {
         >
           <h2 className="text-3xl font-bold mb-4 text-center sm:text-left">About Me</h2>
           <p className="text-base sm:text-lg leading-relaxed text-gray-700 dark:text-gray-300">
-            Hey there! I’m Sunidhi Singh, a Computer Science graduate from SRM IST, driven by a deep curiosity for how things work — and how to make them work better. Over the years, I’ve explored the layers of technology through hands-on experience in development, data analysis, and project execution. From building sentiment dashboards and automation tools to designing user-centric web experiences, I’ve always enjoyed turning abstract ideas into purposeful, real-world solutions.
-
-I’ve worked on projects across Python, SQL, React, Excel, and more — often wearing multiple hats, balancing solo execution with collaborative problem-solving. Along the way, I’ve developed a mindset that values structure, clarity, and adaptability. I'm someone who thrives in fast-moving environments, loves untangling complex problems, and pays close attention to detail — not just in code, but in how teams communicate and ideas take shape.
-
-Challenges genuinely excite me. I love the process of diving deep, asking the right questions, and building systems or strategies that actually make a difference — whether it's through clean design, meaningful data, or thoughtful workflows.
-
-Right now, I’m excited about opportunities that let me grow across disciplines, contribute to impactful work, and keep learning with every step. If you're into ideas, execution, and a bit of creative chaos — we’ll probably get along just fine.
-          </p>
+            <lHi there! I am a Computer Science graduate from SRM IST with a strong foundation in development, data analysis, and strategic execution. With hands-on experience across technologies like Python, SQL, React, and Excel, I specialize in building intuitive web experiences, automation tools, and data-driven dashboards that transform abstract ideas into real-world solutions.
+            
+            My work spans solo builds to collaborative projects, where I often take on multiple roles—balancing precision in code with clarity in communication. I bring a mindset rooted in structure, adaptability, and deep attention to detail, always focused on making systems more efficient and user-centric.
+            
+            Driven by curiosity and challenge, I thrive in dynamic environments where complexity meets creativity. I enjoy diving deep, solving meaningful problems, and designing workflows that create tangible impact.
+            
+            Currently, I’m looking to grow through interdisciplinary opportunities that fuel learning, innovation, and purposeful execution.
         </motion.section>
 
         {/* Projects */}
