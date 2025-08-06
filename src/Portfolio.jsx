@@ -102,10 +102,10 @@ export default function Portfolio() {
         >
           <h2 className="text-3xl font-bold mb-4 text-center sm:text-left">About Me</h2>
           <p className="text-base sm:text-lg leading-relaxed text-gray-700 dark:text-gray-300">
-            <li>Hi there! I am a Computer Science graduate from SRM IST with a strong foundation in development, data analysis, and strategic execution. With hands-on experience across technologies like Python, SQL, React, and Excel, I specialize in building intuitive web experiences, automation tools, and data-driven dashboards that transform abstract ideas into real-world solutions.</li>
-            <li>My work spans solo builds to collaborative projects, where I often take on multiple roles—balancing precision in code with clarity in communication. I bring a mindset rooted in structure, adaptability, and deep attention to detail, always focused on making systems more efficient and user-centric.</li>
-            <li>Driven by curiosity and challenge, I thrive in dynamic environments where complexity meets creativity. I enjoy diving deep, solving meaningful problems, and designing workflows that create tangible impact.</li>            
-            <li>Currently, I’m looking to grow through interdisciplinary opportunities that fuel learning, innovation, and purposeful execution.</li>
+            Hi there! I am a Computer Science graduate from SRM IST with a strong foundation in development, data analysis, and strategic execution. With hands-on experience across technologies like Python, SQL, React, and Excel, I specialize in building intuitive web experiences, automation tools, and data-driven dashboards that transform abstract ideas into real-world solutions.
+            My work spans solo builds to collaborative projects, where I often take on multiple roles—balancing precision in code with clarity in communication. I bring a mindset rooted in structure, adaptability, and deep attention to detail, always focused on making systems more efficient and user-centric.
+            Driven by curiosity and challenge, I thrive in dynamic environments where complexity meets creativity. I enjoy diving deep, solving meaningful problems, and designing workflows that create tangible impact.           
+            Currently, I’m looking to grow through interdisciplinary opportunities that fuel learning, innovation, and purposeful execution.
         </motion.section>
 
         {/* Projects */}
