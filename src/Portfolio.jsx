@@ -72,7 +72,11 @@ export default function Portfolio() {
               Hi, I'm Sunidhi Singh 👩‍💻
             </h1>
             <p className="text-lg sm:text-xl md:text-2xl mb-6">
+<<<<<<< HEAD
               Full Stack Developer | Data Analytics | Project/Product Management | Python | ML Enthusiast
+=======
+              Full Stack Developer | Python | Flask | JavaScript | ML Enthusiast
+>>>>>>> 8edb99e (Add new features and update project)
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a href="mailto:sunidhi2043@gmail.com" className={buttonStyle}>
@@ -102,10 +106,20 @@ export default function Portfolio() {
         >
           <h2 className="text-3xl font-bold mb-4 text-center sm:text-left">About Me</h2>
           <p className="text-base sm:text-lg leading-relaxed text-gray-700 dark:text-gray-300">
+<<<<<<< HEAD
             <li>Hi there! I’m Sunidhi Singh, a Computer Science graduate from SRM IST with a strong foundation in development, data analysis, and strategic execution. With hands-on experience across technologies like Python, SQL, React, and Excel, I specialize in building intuitive web experiences, automation tools, and data-driven dashboards that transform abstract ideas into real-world solutions.</li>
             <li>My work spans solo builds to collaborative projects, where I often take on multiple roles—balancing precision in code with clarity in communication. I bring a mindset rooted in structure, adaptability, and deep attention to detail, always focused on making systems more efficient and user-centric.</li>
             <li>Driven by curiosity and challenge, I thrive in dynamic environments where complexity meets creativity. I enjoy diving deep, solving meaningful problems, and designing workflows that create tangible impact.</li>
             <li>Currently, I’m looking to grow through interdisciplinary opportunities that fuel learning, innovation, and purposeful execution.</li>
+=======
+            Hi, I'm Sunidhi Singh, a passionate and detail-oriented Software Developer with a strong foundation in Full Stack Web Development, Data Analysis, and Machine Learning. I'm currently pursuing my B.Tech in Computer Science from SRM Institute of Science & Technology with a CGPA of 8.62.
+
+            I thrive at the intersection of technology and problem-solving whether it's building dynamic dashboards, creating scalable web apps, or mentoring juniors in programming. I've interned at Larsen & Toubro where I worked on full-stack applications and data-driven solutions, and developed several projects including an AI-powered Excel Insights Tool, a Sentiment Analysis Dashboard, and a video-based E-Learning platform.
+
+            I'm skilled in Python, C++, Flask, JavaScript, SQL, and tools like Power BI, Git, and Google Cloud APIs. Outside of coding, I enjoy leading creative events and was actively involved in my college's Coding and Fashion Clubs organizing hackathons, mentoring peers, and managing campaigns.
+
+            Currently, I'm looking for opportunities to bring innovative solutions to real-world problems and continue growing as a full-stack developer.
+>>>>>>> 8edb99e (Add new features and update project)
           </p>
         </motion.section>
 
@@ -127,6 +141,7 @@ export default function Portfolio() {
                 desc="A smart automation tool that transforms static Excel files into interactive dashboards using Natural Language Processing.
 
                 ✅ Ask questions like “Top 5 sales regions” and get instant visual insights
+<<<<<<< HEAD
                 
                 📈 Auto-analyzes raw data to generate key stats and summaries
                 
@@ -134,6 +149,15 @@ export default function Portfolio() {
                 
                 🤖 NLP-powered backend for conversational data interaction
                 
+=======
+
+                📈 Auto-analyzes raw data to generate key stats and summaries
+
+                🎯 Visualizes results with dynamic graphs using Matplotlib and Seaborn
+
+                🤖 NLP-powered backend for conversational data interaction
+
+>>>>>>> 8edb99e (Add new features and update project)
                 Impact: Simplifies Excel data analysis for non-technical users—no formulas, just insights."
                 github="https://github.com/Sunidhi2043/Excel-Insight-Master"
               />
@@ -143,6 +167,7 @@ export default function Portfolio() {
                 desc="A web dashboard that analyzes and visualizes social media sentiment using NLP and Machine Learning.
 
                 🧠 Detects sentiment as Positive, Negative, or Neutral
+<<<<<<< HEAD
                 
                 🗂️ Real-time SQL-based data handling
                 
@@ -152,6 +177,17 @@ export default function Portfolio() {
                 
                 🌐 Clean, responsive user interface
                 
+=======
+
+                🗂️ Real-time SQL-based data handling
+
+                📊 Visual insights via Matplotlib and Streamlit
+
+                ⚙️ Custom filters by keyword, date, and sentiment
+
+                🌐 Clean, responsive user interface
+
+>>>>>>> 8edb99e (Add new features and update project)
                 Impact: Simplifies sentiment understanding for marketers, researchers, and campaign teams."
                 github="https://github.com/Sunidhi2043/Sentiment-Analysis-Dashboard-on-Social-Media"
               />
@@ -161,6 +197,7 @@ export default function Portfolio() {
                 desc="A scalable video-based learning app built with Flask and Google Cloud for seamless content management and playback.
 
                 📹 Secure video uploads via Google Cloud Storage
+<<<<<<< HEAD
                 
                 📁 Auto-generated course playlists
                 
@@ -173,6 +210,21 @@ export default function Portfolio() {
                 Impact: A solid foundation for digital learning—ideal for educators and institutions."
                 github="http://my-learning-platform.onrender.com"
               />
+=======
+
+                📁 Auto-generated course playlists
+
+                🌐 Responsive UI with HTML, CSS, and JavaScript
+
+                🔐 Role-based structure for future authentication
+
+                🚀 Live on Render for easy access
+
+                Impact: A solid foundation for digital learning—ideal for educators and institutions."
+                github="http://my-learning-platform.onrender.com"
+              />
+
+>>>>>>> 8edb99e (Add new features and update project)
               <ProjectCard
                 title="Mood2Style"
                 tech="Flask, Python, ML, tailwind CSS, HTML, CSS, JavaScript"
@@ -190,10 +242,16 @@ export default function Portfolio() {
                 Impact: Revolutionizes personal fashion choices by combining mood analysis with style recommendations, making dressing up a delightful experience."
                 github="https://mood2style.onrender.com/"
               />
+<<<<<<< HEAD
             </div>
           </div>
         </motion.section>
 
+=======
+              </div>
+          </div>
+        </motion.section>
+>>>>>>> 8edb99e (Add new features and update project)
         {/* Experience */}
         <motion.section
           id="experience"
@@ -236,6 +294,10 @@ export default function Portfolio() {
         <li>Backend: Python, Flask, Node.js (basic)</li>
         <li>Database: SQL, PostgreSQL</li>
         <li>Tools: Git, GitHub, Power BI, Vercel, Google Cloud API</li>
+<<<<<<< HEAD
+=======
+        <li>Strong Analytical Thinking, Project/Product Management, SDLC</li>
+>>>>>>> 8edb99e (Add new features and update project)
       </ul>
     </div>
 
