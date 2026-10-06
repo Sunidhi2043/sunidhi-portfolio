@@ -333,22 +333,17 @@ return (
               </a>
 
               <a
-                href="/Sunidhi_Singh__Resume.pdf"
-
-
-
-                target="_blank"
-
-                rel="noopener noreferrer"
-
-                className={outlineButton}
-              >
-
-                View Resume
-
-              </a>
-
-              <a
+              href="/Sunidhi_Singh__Resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={(e) => {
+              e.preventDefault();
+              window.open("/Sunidhi_Singh__Resume.pdf", "_blank");
+              }}
+              className={outlineButton}
+            >
+              View Resume
+            </a>
 
 
 
