@@ -4,8 +4,17 @@ import { motion, AnimatePresence } from "framer-motion";
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [darkMode, setDarkMode] = useState(() => {
-    return document.documentElement.classList.contains("dark");
-  });
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme) {
+    return savedTheme === "dark";
+  }
+
+  // Default theme for first-time visitors
+  document.documentElement.classList.add("dark");
+  localStorage.setItem("theme", "dark");
+  return true;
+});
 
   const navItems = [
     { label: "Home", href: "#home" },
