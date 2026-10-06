@@ -333,7 +333,7 @@ return (
               </a>
 
               <a
-                href="public/Sunidhi_Singh__Resume.pdf"
+                href="/Sunidhi_Singh__Resume.pdf"
 
 
 
